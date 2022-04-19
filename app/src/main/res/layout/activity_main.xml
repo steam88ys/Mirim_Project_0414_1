@@ -37,7 +37,7 @@
             android:textSize="20sp"
             android:textStyle="bold"
             android:textColor="@color/black"
-            android:text="@string/text_quest"/>
+            android:text="@string/text_question"/>
 
         <RadioGroup
             android:id="@+id/rg"
